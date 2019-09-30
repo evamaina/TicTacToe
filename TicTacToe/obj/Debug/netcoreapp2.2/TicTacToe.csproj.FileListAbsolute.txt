@@ -1,0 +1,11 @@
+/Users/evamaina/Projects/TicTacToe/TicTacToe/bin/Debug/netcoreapp2.2/TicTacToe.deps.json
+/Users/evamaina/Projects/TicTacToe/TicTacToe/bin/Debug/netcoreapp2.2/TicTacToe.runtimeconfig.json
+/Users/evamaina/Projects/TicTacToe/TicTacToe/bin/Debug/netcoreapp2.2/TicTacToe.runtimeconfig.dev.json
+/Users/evamaina/Projects/TicTacToe/TicTacToe/bin/Debug/netcoreapp2.2/TicTacToe.dll
+/Users/evamaina/Projects/TicTacToe/TicTacToe/bin/Debug/netcoreapp2.2/TicTacToe.pdb
+/Users/evamaina/Projects/TicTacToe/TicTacToe/obj/Debug/netcoreapp2.2/TicTacToe.csprojAssemblyReference.cache
+/Users/evamaina/Projects/TicTacToe/TicTacToe/obj/Debug/netcoreapp2.2/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/evamaina/Projects/TicTacToe/TicTacToe/obj/Debug/netcoreapp2.2/TicTacToe.AssemblyInfoInputs.cache
+/Users/evamaina/Projects/TicTacToe/TicTacToe/obj/Debug/netcoreapp2.2/TicTacToe.AssemblyInfo.cs
+/Users/evamaina/Projects/TicTacToe/TicTacToe/obj/Debug/netcoreapp2.2/TicTacToe.dll
+/Users/evamaina/Projects/TicTacToe/TicTacToe/obj/Debug/netcoreapp2.2/TicTacToe.pdb
